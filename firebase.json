@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "dvd-2d-blog",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
