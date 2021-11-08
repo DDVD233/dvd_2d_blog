@@ -1,8 +1,8 @@
 ---
 title: DVD Release
 date: 2021-11-07 21:14:09
-cover_index: /img/dvd_release_thumbnail.jpg
-cover_detail: /img/dvd_release_banner.jpg
+cover_index: /img/DVD_Release/dvd_release_thumbnail.jpg
+cover_detail: /img/DVD_Release/dvd_release_banner.jpg
 tags:
 ---
 
@@ -20,8 +20,8 @@ dvd 要成为v……不，是 dvd 的虚拟形象发布啦！
 
 原版
 
-![Original_ver](/img/dvd_release.png)
+![Original_ver](/img/DVD_Release/dvd_release.png)
 
 Dart© 差分
 
-![Dart ver](/img/dvd_release_dart.png)
+![Dart ver](/img/DVD_Release/dvd_release_dart.png)
