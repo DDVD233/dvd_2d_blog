@@ -99,6 +99,15 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: magnetic
 
+plugins:
+  - hexo-generator-robotstxt
+
+robotstxt:
+  useragent: "*"
+  disallow:
+  allow:
+  sitemap:
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:

@@ -3,7 +3,11 @@ title: DVD Release
 date: 2021-11-07 21:14:09
 cover_index: /img/DVD_Release/dvd_release_thumbnail.jpg
 cover_detail: /img/DVD_Release/dvd_release_banner.jpg
-tags:
+tags: 
+- dvd
+- arts
+- ddavid
+- dd
 ---
 
 **「这……这里是dvd」**
