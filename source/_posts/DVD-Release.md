@@ -2,6 +2,7 @@
 title: DVD Release
 date: 2021-11-07 21:14:09
 cover_index: /img/DVD_Release/dvd_release_thumbnail.jpg
+cover: /img/DVD_Release/dvd_release_thumbnail.jpg
 cover_detail: /img/DVD_Release/dvd_release_banner.jpg
 tags: 
 - dvd
@@ -15,8 +16,6 @@ tags:
 dvd 要成为v……不，是 dvd 的虚拟形象发布啦！
 
 下面是首发图，希望大家喜欢～
-
-欢迎转发，同人创作大欢迎！
 
 感谢 [neko2lims](https://twitter.com/neko2lims) 老师画的首发图
 

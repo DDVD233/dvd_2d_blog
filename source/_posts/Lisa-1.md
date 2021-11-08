@@ -2,6 +2,7 @@
 title: Lisa 1
 date: 2021-05-30 22:43:35
 cover_index: /img/Lisa_1/Lisa_1_thumbnail.png
+cover: /img/Lisa_1/Lisa_1_thumbnail.png
 cover_detail: /img/Lisa_1/Lisa_1_banner.png
 tags:
 - Lisa

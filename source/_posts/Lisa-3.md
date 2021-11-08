@@ -2,6 +2,7 @@
 title: Lisa 3
 date: 2021-10-26 20:31:15
 cover_index: /img/Lisa_3/Lisa_3_thumbnail.png
+cover: /img/Lisa_3/Lisa_3_thumbnail.png
 cover_detail: /img/Lisa_3/Lisa_3_banner.png
 tags:
 - Lisa
