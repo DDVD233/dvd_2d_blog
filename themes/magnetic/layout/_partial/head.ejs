@@ -35,6 +35,14 @@
         <meta property="og:image" content="<%= theme.cover %>"/>
     <% } %>
 
+    <%
+        var cover = '';
+        if (page.cover) cover = page.cover;
+        else cover = theme.cover;
+    %>
+    <%- open_graph({twitter_card: 'summary_large_image',
+        twitter_id: '@ddvd233', image: cover}) %>
+
     <!-- Title -->
     <%
         var title = [];

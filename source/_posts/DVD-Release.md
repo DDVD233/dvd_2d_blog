@@ -1,8 +1,8 @@
 ---
 title: DVD Release
 date: 2021-11-07 21:14:09
-cover_index: /img/DVD_Release/dvd_release_thumbnail.jpg
-cover: /img/DVD_Release/dvd_release_thumbnail.jpg
+cover_index: /img/DVD_Release/dvd_release_thumbnail.png
+cover: /img/DVD_Release/dvd_release_thumbnail.png
 cover_detail: /img/DVD_Release/dvd_release_banner.jpg
 tags: 
 - dvd
@@ -13,7 +13,7 @@ tags:
 
 **「这……这里是dvd」**
 
-dvd 要成为v……不，是 dvd 的虚拟形象发布啦！
+是 dvd 的虚拟形象发布啦！
 
 下面是首发图，希望大家喜欢～
 

@@ -8,6 +8,7 @@ default_post_title: Untitled
 
 # Default post cover index page
 default_cover_index: "http://placehold.it/450x450"
+cover: '/img/DVD_Release/dvd_release_thumbnail.png'
 
 # Default post cover index page
 default_cover_detail: "http://placehold.it/1300x500"

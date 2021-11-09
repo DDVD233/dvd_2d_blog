@@ -1,8 +1,8 @@
 ---
 title: Lisa 2
 date: 2021-06-08 20:28:34
-cover_index: /img/Lisa_2/Lisa_2_thumbnail.jpg
-cover: /img/Lisa_2/Lisa_2_thumbnail.jpg
+cover_index: /img/Lisa_2/Lisa_2_thumbnail.png
+cover: /img/Lisa_2/Lisa_2_thumbnail.png
 cover_detail: /img/Lisa_2/Lisa_2_banner.png
 tags:
 - Lisa
