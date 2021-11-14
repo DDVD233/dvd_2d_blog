@@ -1,7 +1,7 @@
 ---
 title: DVD by Hinata
 date: 2021-11-11 20:22:10
-cover_index: /img/DVD_by_hinata/DVD_ by_hinata_thumbnail.png
+cover_index: /img/DVD_by_hinata/DVD_by_hinata_thumbnail.png
 cover: /img/DVD_by_hinata/DVD_by_hinata_thumbnail.png
 cover_detail: /img/DVD_by_hinata/DVD_by_hinata_banner.png
 tags:

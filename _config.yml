@@ -112,3 +112,13 @@ robotstxt:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+# hexo-hide-posts
+hide_posts:
+  # Change the filter name to fit your need
+  filter: hidden
+  # Generators which you want to expose all posts (include hidden ones) to.
+  # Common generators: index, tag, category, archive, sitemap, feed, etc.
+  public_generators: [ ]
+  # Add "noindex" meta tag to prevent hidden posts from being indexed by search engines
+  noindex: false
