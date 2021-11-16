@@ -1,5 +1,5 @@
 ---
-title: DIY Guide to make a law
+title: 教程：如何制定一个属于你自己的法律
 date: 2021-11-15 19:28:02
 cover_index: /img/DVD_Release/dvd_release_thumbnail.png
 cover: /img/DVD_Release/dvd_release_thumbnail.png
