@@ -4,17 +4,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
 
-    <!--Description-->
-    <% if (page.description){ %>
-        <meta name="description" content="<%= page.description %>">
-    <% } else if (config.description){ %>
-        <meta name="description" content="<%= config.description %>">
-    <% } else if (page.excerpt){ %>
-        <meta name="description" content="<%= strip_html(page.excerpt).replace(/^\s*/, '').replace(/\s*$/, '') %>">
-    <% } else if (page.content){ %>
-        <meta name="description" content="<%= strip_html(page.content).replace(/^\s*/, '').replace(/\s*$/, '').substring(0, 150) %>">
-    <% } %>
-
     <!--Author-->
     <% if (config.author){ %>
         <meta name="author" content="<%= config.author %>">
@@ -35,14 +24,6 @@
         <meta property="og:image" content="<%= theme.cover %>"/>
     <% } %>
 
-    <%
-        var cover = '';
-        if (page.cover) cover = page.cover;
-        else cover = theme.cover;
-    %>
-    <%- open_graph({twitter_card: 'summary_large_image',
-        twitter_id: '@ddvd233', image: cover}) %>
-
     <!-- Title -->
     <%
         var title = [];
@@ -57,6 +38,14 @@
         title.push(config.title);
     %>
     <title><%= title.join(' - ') %></title>
+
+    <%
+    var cover = '';
+    if (page.cover) cover = page.cover;
+    else cover = theme.cover;
+    %>
+    <%- open_graph({twitter_card: 'summary_large_image',
+        twitter_id: '@ddvd233', image: cover, description: title.join(' - ')}) %>
 
     <!-- Custom CSS -->
     <%- css('css/reset.css') %>
