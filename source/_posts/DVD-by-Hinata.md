@@ -7,7 +7,6 @@ cover_detail: /img/DVD_by_hinata/DVD_by_hinata_banner.png
 tags:
 - dvd
 - arts
-- ddavid
 - dd
 ---
 

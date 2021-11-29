@@ -8,7 +8,6 @@ hidden: true
 tags:
 - dvd
 - arts
-- ddavid
 - dd
 ---
 
@@ -45,3 +44,9 @@ tags:
 ![DVD_by_Klaius](/img/DVD_by_Klaius/DVD_by_Klaius.png)
 
 イラストレーター: [Klaius](https://twitter.com/Klaius)
+
+## 2021 Thanksgivingのイラスト：
+
+![DVD_by_Klaius](/img/DVD_Thanksgiving/DVD_Thanksgiving.png)
+
+イラストレーター: [Lims](https://www.pixiv.net/users/17325861)

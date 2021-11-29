@@ -7,7 +7,6 @@ cover_detail: /img/DVD_Release/dvd_release_banner.jpg
 tags: 
 - dvd
 - arts
-- ddavid
 - dd
 ---
 
