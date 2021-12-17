@@ -33,17 +33,29 @@ tags:
 
 イラストレーター: [Lims](https://www.pixiv.net/users/17325861)
 
-## Hinata 先生から頂いたイラスト：
+## ドレスのデザイン
 
-![DVD_by_Hinata](/img/DVD_by_hinata/DVD_by_hinata.png)
+![Dress_Design](/img/DVD_by_MasakiKei/DressDesign.png)
 
-イラストレーター: [Hinata](https://twitter.com/hinata_0423_)
+イラストレーター: [真崎ケイ](https://twitter.com/masaki_kei)
+
+## ちょっと長ずったDVDちゃん（メイド服）
+
+![DVD_by_Duyu](/img/DVD_by_Duyu/DVD_by_Duyu.png)
+
+イラストレーター: [Duyu](https://twitter.com/hd_1735)
 
 ## Klaius 先生から頂いたイラスト：
 
 ![DVD_by_Klaius](/img/DVD_by_Klaius/DVD_by_Klaius.png)
 
 イラストレーター: [Klaius](https://twitter.com/Klaius)
+
+## Hinata 先生から頂いたイラスト：
+
+![DVD_by_Hinata](/img/DVD_by_hinata/DVD_by_hinata.png)
+
+イラストレーター: [Hinata](https://twitter.com/hinata_0423_)
 
 ## 2021 Thanksgivingのイラスト：
 
