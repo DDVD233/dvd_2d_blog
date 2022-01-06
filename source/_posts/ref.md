@@ -39,11 +39,11 @@ tags:
 
 イラストレーター: [真崎ケイ](https://twitter.com/masaki_kei)
 
-## ちょっと長ずったDVDちゃん（メイド服）
+## ジト目dvdちゃん
 
-![DVD_by_Duyu](/img/DVD_by_Duyu/DVD_by_Duyu.png)
+![ジト目](/img/DVD_by_Haemori/DVD_by_Haemori.png)
 
-イラストレーター: [Duyu](https://twitter.com/hd_1735)
+イラストレーター: [はえもり](https://twitter.com/haemori_ako)
 
 ## Klaius 先生から頂いたイラスト：
 
@@ -51,7 +51,19 @@ tags:
 
 イラストレーター: [Klaius](https://twitter.com/Klaius)
 
-## Hinata 先生から頂いたイラスト：
+## ちょっと長ずったDVDちゃん（メイド服）
+
+![DVD_by_Duyu](/img/DVD_by_Duyu/DVD_by_Duyu.png)
+
+イラストレーター: [Duyu](https://twitter.com/hd_1735)
+
+## 白木栞先生から頂いたイラスト
+
+![DVD_by_Shirakishiori](/img/DVD_by_Shirakishiori/DVD_by_Shirakishiori_2.png)
+
+イラストレーター: [白木栞](https://twitter.com/shirakishiori)
+
+## Hinata 先生から頂いたイラスト
 
 ![DVD_by_Hinata](/img/DVD_by_hinata/DVD_by_hinata.png)
 
