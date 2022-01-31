@@ -15,6 +15,7 @@ default_cover_detail: "http://placehold.it/1300x500"
 
 # Favicon
 favicon: "/img/favicon.jpg"
+per_page: 0
 
 # Comments. Choose one by filling up the information
 comments:
