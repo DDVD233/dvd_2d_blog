@@ -27,9 +27,17 @@ tags:
 
 # 参考イラスト
 
-## デビューイラスト：
+## 設定絵
+
+![setting](/img/setting_mini.png)
 
 ![Original_ver](/img/DVD_Release/dvd_release.png)
+
+イラストレーター: [Lims](https://www.pixiv.net/users/17325861)
+
+## 新年イラスト：
+
+![Original_ver](/img/DVD_2022_New_Year/DVD_2022_New_Year.png)
 
 イラストレーター: [Lims](https://www.pixiv.net/users/17325861)
 
