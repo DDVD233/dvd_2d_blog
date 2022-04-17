@@ -29,7 +29,16 @@ tags:
 
 ## 設定絵
 
-![setting](/img/setting_mini.png)
+### バッジなし(Original ver.)
+
+![setting](/img/setting_lite.png)
+
+[//]: # (### バッジあり&#40;Alternative ver.&#41;)
+
+[//]: # ()
+[//]: # (![setting]&#40;/img/setting_mini.png&#41;)
+
+
 
 ![Original_ver](/img/DVD_Release/dvd_release.png)
 
