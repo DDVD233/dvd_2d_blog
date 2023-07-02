@@ -44,6 +44,12 @@ tags:
 
 イラストレーター: [Lims](https://www.pixiv.net/users/17325861)
 
+## 水着 ver.
+
+![Swimsuit_ver](/img/swimsuit/Swimsuit_dvd.png)
+
+イラストレーター: [Lims](https://www.pixiv.net/users/17325861)
+
 ## 新年イラスト：
 
 ![Original_ver](/img/DVD_2022_New_Year/DVD_2022_New_Year.png)
